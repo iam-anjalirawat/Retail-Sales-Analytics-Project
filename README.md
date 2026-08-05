@@ -1,110 +1,183 @@
-# Retail Sales Analytics | SQL + PostgreSQL + Power BI
+# 🛍️ Retail Sales Analytics Project
 
-## Project Overview
+## 📌 Project Overview
 
-This project simulates a real-world retail sales analysis using PostgreSQL and Power BI. The objective was to analyze transactional sales data, answer business questions through SQL, and build an interactive dashboard to support business decision-making.
+This project analyzes retail sales data to uncover business insights related to sales performance, customer purchasing behavior, product categories, and revenue trends.
 
----
-
-## Business Problem
-
-Retail businesses generate large volumes of transactional data every day. This project focuses on transforming raw sales data into meaningful insights by identifying sales trends, customer behavior, product performance, and revenue patterns.
+The objective was to simulate a real-world business scenario where a Data Analyst supports management by transforming raw transactional data into meaningful insights using **PostgreSQL** and **Power BI**.
 
 ---
 
-## Tools Used
+# 🎯 Business Problem
 
-- PostgreSQL
-- SQL
-- Power BI
-- Excel
+Retail businesses generate thousands of transactions every day. Without proper analysis, it becomes difficult to identify:
 
----
+* Which products generate the highest revenue
+* Which customers contribute the most sales
+* Seasonal sales patterns
+* High-performing product categories
+* Sales opportunities for business growth
 
-## Project Workflow
-
-- Imported retail sales dataset into PostgreSQL
-- Performed data validation and cleaning
-- Solved business questions using SQL
-- Used aggregate functions, CASE statements, CTEs, subqueries, and window functions
-- Created KPIs for business reporting
-- Built an interactive Power BI dashboard
-- Derived business insights and recommendations
+This project aims to answer these business questions through SQL analysis and interactive dashboards.
 
 ---
 
-## Business Questions Solved
+# 🛠️ Tools & Technologies
 
-- Total sales generated
-- Monthly sales trend
-- Best-selling product categories
-- Highest revenue-generating products
-- Customer purchasing behavior
-- Sales by gender
-- Average order value
-- Top customers by revenue
-- Sales by age group
-- Category-wise performance
-- Peak sales months
-- Revenue contribution by category
-- Customer segmentation
-- Product performance ranking
-- Overall sales summary
+* **PostgreSQL** – Database Management & SQL Analysis
+* **Power BI** – Interactive Dashboard & Data Visualization
+* **Microsoft Excel** – Initial Data Review
+* **Git & GitHub** – Version Control & Project Documentation
 
 ---
 
-## Dashboard KPIs
+# 📂 Dataset
 
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Total Customers
-- Monthly Sales Trend
-- Category Performance
-- Top Products
-- Customer Analysis
+The dataset contains retail transaction data with information including:
 
----
-
-## Key Insights
-
-- Identified top-performing product categories contributing the highest revenue.
-- Analyzed monthly sales trends to identify seasonal demand.
-- Evaluated customer purchasing behavior across different demographics.
-- Ranked products based on sales performance.
-- Measured revenue contribution across categories.
-- Highlighted high-value customers using SQL analysis.
+* Invoice Number
+* Product Description
+* Quantity Sold
+* Unit Price
+* Revenue
+* Customer ID
+* Invoice Date
+* Country
+* Product Category
+* Product Subcategory
 
 ---
 
-## Business Recommendations
+# 📋 Project Workflow
 
-- Increase inventory for top-performing products.
-- Launch targeted campaigns during high-sales months.
-- Introduce loyalty programs for repeat customers.
-- Focus marketing efforts on high-value customer segments.
-- Optimize inventory for underperforming products.
-
----
-
-## Project Files
-
-- Dataset
-- SQL Scripts
-- Power BI Dashboard (.pbix)
-- Dashboard PDF
-- Dashboard Screenshots
+1. Imported raw retail sales data into PostgreSQL.
+2. Created database tables with appropriate data types.
+3. Cleaned and validated the dataset.
+4. Performed Exploratory Data Analysis (EDA).
+5. Calculated business KPIs.
+6. Solved business-driven SQL questions.
+7. Used advanced SQL techniques (CTEs, Window Functions, CASE Statements, Subqueries).
+8. Built an interactive Power BI dashboard.
+9. Generated business insights and recommendations.
 
 ---
 
-## Skills Demonstrated
+# 📊 Key Performance Indicators (KPIs)
 
-- SQL
-- PostgreSQL
-- Data Cleaning
-- Exploratory Data Analysis
-- KPI Development
-- Data Visualization
-- Power BI
-- Business Analysis
-- Dashboard Design
+* Total Revenue
+* Total Orders
+* Total Customers
+* Total Quantity Sold
+* Average Order Value
+* Revenue by Category
+* Monthly Revenue Trend
+* Top Customers
+* Top Products
+
+---
+
+# 🔍 Business Questions Answered
+
+This project answers several real-world business questions, including:
+
+* What is the total revenue generated?
+* Which product categories generate the highest revenue?
+* Which months have the highest sales?
+* Who are the top customers by revenue?
+* Which countries contribute the most sales?
+* What are the best-selling products?
+* What is the average order value?
+* Which products have the highest quantities sold?
+* How do sales vary across different months and quarters?
+* Which categories require business attention?
+
+---
+
+# 💡 SQL Concepts Used
+
+* SELECT
+* WHERE
+* GROUP BY
+* ORDER BY
+* Aggregate Functions
+* CASE Statements
+* Common Table Expressions (CTEs)
+* Window Functions
+* Subqueries
+* Date Functions
+* Ranking Functions
+* Joins
+
+---
+
+# 📈 Dashboard Features
+
+The Power BI dashboard provides:
+
+* Executive KPI Summary
+* Revenue Trend Analysis
+* Monthly Sales Performance
+* Category-wise Revenue
+* Country-wise Sales
+* Customer Analysis
+* Interactive Filters & Slicers
+
+---
+
+# 📷 Dashboard Preview
+
+![Dashboard Overview]([Images/dashboard_overview.png](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Performance%20Dashboard.png))
+
+### Dashboard Overview
+
+*(Insert Screenshot Here)*
+
+### Sales Trend
+
+*(Insert Screenshot Here)*
+
+### Category Analysis
+
+*(Insert Screenshot Here)*
+
+### Customer Insights
+
+*(Insert Screenshot Here)*
+
+
+# 📌 Key Insights
+
+* Certain product categories consistently outperform others in terms of revenue.
+* Revenue shows noticeable seasonal trends across different months.
+* A small percentage of customers contribute a significant portion of total sales.
+* Some countries generate substantially higher sales than others.
+* Product demand varies significantly across categories.
+
+---
+
+# 🚀 Business Recommendations
+
+* Increase inventory for top-performing products.
+* Launch promotional campaigns during high-performing months.
+* Develop loyalty programs for high-value customers.
+* Optimize stock levels for slow-moving products.
+* Focus marketing efforts on high-revenue product categories.
+
+---
+
+# 📚 Skills Demonstrated
+
+* Data Cleaning
+* Data Validation
+* Exploratory Data Analysis (EDA)
+* SQL Query Writing
+* Business Analysis
+* KPI Development
+* Data Visualization
+* Dashboard Design
+* Business Storytelling
+* Analytical Thinking
+
+
+
+## ⭐ If you found this project helpful, feel free to star the repository!
