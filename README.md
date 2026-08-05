@@ -126,24 +126,27 @@ The Power BI dashboard provides:
 
 # 📷 Dashboard Preview
 
-![Dashboard Overview](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Performance%20Dashboard.png)
+### Dashboard Page 1
 
-### Dashboard Overview
+![Dashboard Page 1](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Performance%20Dashboard.png)
 
-*(Insert Screenshot Here)*
+### Dashboard Page 2
+
+![Dashboard Page 2](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Customer%20%26%20Product%20Performance.png)
 
 ### Sales Trend
 
-*(Insert Screenshot Here)*
+![Sales Trend](Images/sales_trend.png)
 
 ### Category Analysis
 
-*(Insert Screenshot Here)*
+![Category Analysis](Images/category_analysis.png)
 
-### Customer Insights
+### Customer Analysis
 
-*(Insert Screenshot Here)*
+![Customer Analysis](Images/customer_analysis.png)
 
+---
 
 # 📌 Key Insights
 
