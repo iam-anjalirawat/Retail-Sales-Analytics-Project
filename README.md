@@ -1,5 +1,7 @@
 # 🛍️ Retail Sales Analytics Project
 
+![Cpver page](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20analysis%20cover%20page.png)
+
 ## 📌 Project Overview
 
 This project analyzes retail sales data to uncover business insights related to sales performance, customer purchasing behavior, product categories, and revenue trends.
