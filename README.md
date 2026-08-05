@@ -35,15 +35,23 @@ This project aims to answer these business questions through SQL analysis and in
 
 The dataset contains retail transaction data with information including:
 
-* Invoice Number
-* Product Description
-* Quantity Sold
-* Unit Price
-* Revenue
-* Customer ID
-* Invoice Date
-* Country
-* Product Category
+* invoice
+* stockcode
+* description
+* quantity
+* invoicedate
+* price
+* customer_id
+* country
+* revenue
+* order_year
+* order_quarter
+* order_month
+* order_month_name
+* order_week
+* order_day_name
+* order_hour
+* top_level_category
 * Product Subcategory
 
 ---
