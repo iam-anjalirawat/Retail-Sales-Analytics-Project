@@ -126,7 +126,7 @@ The Power BI dashboard provides:
 
 # 📷 Dashboard Preview
 
-![Dashboard Overview]([Images/dashboard_overview.png](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Performance%20Dashboard.png))
+![Dashboard Overview](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Performance%20Dashboard.png)
 
 ### Dashboard Overview
 
