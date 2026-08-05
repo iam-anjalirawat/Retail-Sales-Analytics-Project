@@ -136,15 +136,15 @@ The Power BI dashboard provides:
 
 ### Sales Trend
 
-![Sales Trend](Images/sales_trend.png)
+![Sales Trend](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Sales%20Trend%20Analysis.png)
 
 ### Category Analysis
 
-![Category Analysis](Images/category_analysis.png)
+![Category Analysis](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Category%20Performance%20Analysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](Images/customer_analysis.png)
+![Customer Analysis](https://github.com/iam-anjalirawat/Retail-Sales-Analytics-Project/blob/main/Customer%20Analysis.png)
 
 ---
 
